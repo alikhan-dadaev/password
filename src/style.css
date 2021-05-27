@@ -1,0 +1,9 @@
+.app {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+input {
+    margin: 30px;
+    border: 2px solid black;
+}
